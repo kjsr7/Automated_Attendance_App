@@ -1,6 +1,8 @@
 This app has been developed as part of the academic project (group project).  It has been developed to automate the regular manual attendance system.
 
-Features of the App: Security, performance ( Volley library has been used to respond to multiple HTTP requests ). Do look at the presentation for the concept of the app.
+Do have a look at the presentation and SRS (Software Requirements Specification) document for the concept behind the app.
+
+Features of the App: Security, performance ( Volley library has been used to respond to multiple HTTP requests ). 
 
 The Workflow of the app is as follows:
 1. The student registers to our app.
@@ -10,4 +12,4 @@ The Workflow of the app is as follows:
 5. A separate web page is created for the faculty so that they can send the notifications to the specified user using the google firebase.
 
 Disadvantage: Accuracy is the main measure. As GPS system is going on improving with time, we think that our app works perfectly fine in future. But as of now, there is a need to maintain a little bit of tolerance between the classroom and benches.
-Note: Please do download the app_demo.mo4 file to view the demo. 
+
